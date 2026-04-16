@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "macefast",
+  "version": "1.0.0",
+  "name": "MaceClient",
+  "description": "快捷重锤使用",
+  "authors": ["NanShan"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.macefast.MaceFastMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric": "*",
+    "minecraft": "1.21.11"
+  }
+}
