@@ -1,0 +1,16 @@
+{
+	"key.mace.menu": "Open module menu (=)",
+	"key.mace.auto_back": "Toggle nearby /back ]",
+	"screen.mace.module.title": "Mace Client",
+	"screen.mace.module.broken_shield.on": "[ON] Broken shield + mace",
+	"screen.mace.module.broken_shield.off": "[OFF] Broken shield + mace",
+	"screen.mace.module.broken_shield_settings": "Broken shield · Settings…",
+	"screen.mace.module.auto_back.on": "[ON] Auto /back when player nearby",
+	"screen.mace.module.auto_back.off": "[OFF] Auto /back when player nearby",
+	"screen.mace.module.hint_bracket": "Press ] to toggle auto /back",
+	"screen.mace.module.close": "Close",
+	"screen.mace.config.title": "Broken shield · Settings",
+	"screen.mace.config.aura.on": "No-look aura: ON",
+	"screen.mace.config.aura.off": "No-look aura: OFF",
+	"screen.mace.config.aura_range": "Scan radius: %s blocks"
+}

@@ -1,0 +1,16 @@
+{
+	"key.mace.menu": "打开electron client模块界面 (=)",
+	"key.mace.auto_back": "切换「附近有人 /back」]",
+	"screen.mace.module.title": "electron client",
+	"screen.mace.module.broken_shield.on": "[开] 破盾重锤",
+	"screen.mace.module.broken_shield.off": "[关] 破盾重锤",
+	"screen.mace.module.broken_shield_settings": "破盾重锤 · 设置…",
+	"screen.mace.module.auto_back.on": "[开] 附近有人自动 /back",
+	"screen.mace.module.auto_back.off": "[关] 附近有人自动 /back",
+	"screen.mace.module.hint_bracket": "快捷键 ] 可开关「自动 /back」",
+	"screen.mace.module.close": "关闭",
+	"screen.mace.config.title": "破盾重锤 · 设置",
+	"screen.mace.config.aura.on": "无视角索敌：开",
+	"screen.mace.config.aura.off": "无视角索敌：关",
+	"screen.mace.config.aura_range": "扫描半径：%s 格"
+}

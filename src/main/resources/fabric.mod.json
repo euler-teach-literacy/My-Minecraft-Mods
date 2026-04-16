@@ -1,0 +1,35 @@
+{
+
+	"schemaVersion": 1,
+	"id": "mace-mod",
+	"version": "${version}",
+	"name": "破盾 / Mace Combo",
+	"description": "= 模块界面；破盾重锤与附近有人 /back（]）",
+	"authors": ["you"],
+	"entrypoints": {
+		"client": [
+			"com.randomeuler.mace.MaceMod"
+		]
+	},
+
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"environment": "client",
+
+	"mixins": [
+		{
+			"config": "mace-mod.client.mixins.json",
+			"environment": "client"
+		}
+	],
+
+	"depends": {
+		"fabricloader": ">=0.18.2",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
